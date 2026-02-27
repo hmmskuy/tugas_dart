@@ -25,7 +25,7 @@ void main() {
     print("Mendapat Garansi Tambahan: ${laptop.tambahanGaransi}tahun");
     laptop.infoGaransi();
 
-    print("===pc gaming===");
+    print("===PC GAMING===");
     laptop.infoGaransi();
     print("Harga Akhir: ${pcGaming.hitungHargaAkhir()}");
     print("Tidak mendapat garansi tambahan");
